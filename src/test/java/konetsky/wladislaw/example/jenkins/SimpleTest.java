@@ -16,5 +16,9 @@ public class SimpleTest {
         assertEquals("abc", "abc");
     }
 
+    public void testCase3() {
+        assertEquals('r', 'r');
+    }
+
 
 }
